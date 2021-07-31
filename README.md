@@ -10,4 +10,5 @@ According to the proposed method, given an image in grayscale, the proposed meth
 The cost of equipment will be $0. Any circle, spherical flat object can be used to operate the game. The system will track the object automatically and set the parameter of it’s movements. Then it will accurately detect the object movements and correspondingly move the car on the screen in real-time. 
 </p>
 
-<p align="center"><img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_result01.jpg" width="600" height="500"></p>
+<h1 align="center">Sample Screen Output</h1>
+<p align="center"><img src="Steer.jpeg" width="800" height="450"></p>
