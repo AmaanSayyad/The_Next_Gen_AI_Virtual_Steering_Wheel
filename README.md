@@ -31,7 +31,7 @@
 
 #### Implemented Features Overview:
 
-- [x] Accuracy of Object detection is increased.
+- [x] The Accuracy of Object detection is increased.
 - [x] Understands the Object Pose change.
 - [x] Scaling factor (i.e. size of the image)
 - [x] Presence and absence of objects etc.
